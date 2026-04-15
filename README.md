@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" alt="Ionut Robert Balasoiu hero" width="100%" />
+  <img src="./assets/hero-j92.svg" alt="Ionut Robert Balasoiu hero" width="100%" />
 </p>
 
 <p align="center">
