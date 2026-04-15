@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm J92 👋
 
-<!--
-**ionutrobert/IonutRobert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer focused on **Next.js, React, Laravel**, and **automation / AI workflows**.
 
-Here are some ideas to get you started:
+I build web applications, internal tools, and small systems that reduce repetitive work and make products easier to maintain.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work with
+![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+
+## Selected projects
+- **ProjectHub** – SaaS-style project management dashboard built with Next.js and Supabase
+- **Freelance Estimator** – AI-powered SaaS tool for turning client briefs into structured estimates
+- **Model Proxy** – provider-routing layer for choosing models by speed, cost, or task
+- **CodePeek** – Chrome extension for inspecting CSS, colors, typography, and assets
+
+## Current focus
+- automation workflows
+- AI-assisted tooling
+- product-style web apps
+- clean frontend architecture
+
+## Links
+- Website: [mlnoffice.com](https://www.mlnoffice.com)
+- LinkedIn: [ionut-robert-balasoiu](https://www.linkedin.com/in/ionut-robert-balasoiu)
+
+## GitHub stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ionutrobert&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionutrobert&layout=compact&hide_border=true)
