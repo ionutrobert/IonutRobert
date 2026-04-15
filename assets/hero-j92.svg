@@ -29,7 +29,10 @@
       fill="#F7F1E8" 
       font-size="21" 
       font-weight="700"
-      font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+      font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+      textLength="250" 
+      lengthAdjust="spacingAndGlyphs"
+      >
   FULL-STACK DEVELOPER
 </text>
 
