@@ -13,12 +13,6 @@ I build web applications, internal tools, and small systems that reduce repetiti
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 
-## Selected projects
-- **ProjectHub** – SaaS-style project management dashboard built with Next.js and Supabase
-- **Freelance Estimator** – AI-powered SaaS tool for turning client briefs into structured estimates
-- **Model Proxy** – provider-routing layer for choosing models by speed, cost, or task
-- **CodePeek** – Chrome extension for inspecting CSS, colors, typography, and assets
-
 ## Current focus
 - automation workflows
 - AI-assisted tooling
@@ -28,7 +22,3 @@ I build web applications, internal tools, and small systems that reduce repetiti
 ## Links
 - Website: [mlnoffice.com](https://www.mlnoffice.com)
 - LinkedIn: [ionut-robert-balasoiu](https://www.linkedin.com/in/ionut-robert-balasoiu)
-
-## GitHub stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ionutrobert&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ionutrobert&layout=compact&hide_border=true)
